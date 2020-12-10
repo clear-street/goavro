@@ -142,7 +142,7 @@ package main
 import (
     "fmt"
 
-    "github.com/linkedin/goavro/v2"
+    "github.com/clear-street/goavro/v2"
 )
 
 func main() {
